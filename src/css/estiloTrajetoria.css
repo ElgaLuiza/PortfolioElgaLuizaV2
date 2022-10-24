@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(118, 126, 113);
+    color: rgb(225, 243, 197)
+}
+header{
+    text-align: center;
+    padding: 30px;
+    font-size: 32pt;
+}
+.texto1{    
+    margin: 20px;
+    border: 1px solid rgb(167, 163, 163);
+    border-radius: 10px;
+    border-spacing: 50px;
+    padding: 10px;
+    text-align: justify;
+    font-size: 12pt;
+}
+.rodape{ 
+    margin: 20px; 
+    display: inline-flex;  
+    border: 1px solid rgb(167, 163, 163);
+    border-radius: 10px;
+    padding: 20px;
+    border-spacing: 50px;
+    gap: 10px;    
+}
